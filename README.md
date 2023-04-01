@@ -46,4 +46,4 @@ This project includes JUnit 5 test cases to test the logic of the game. These ca
 
 ## Credits
 
-This project was created by Seyfal Sultanov and Name2 for the CS 342 course at University of Illinois at Chicago. 
+This project was created by Mykola Turchak and Seyfal Sultanov for the CS 342 course at University of Illinois at Chicago. 

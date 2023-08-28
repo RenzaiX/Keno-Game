@@ -10,7 +10,7 @@ In this implementation, a single player can play the game by filling out a bet c
 
 ## Installation and Usage
 
-1. Clone the repository: `git clone https://github.com/yourusername/keno-game.git`
+1. Clone the repository: `git clone https://github.com/RenzaiX/keno-game.git`
 2. Open the project in your preferred IDE (Eclipse, IntelliJ, etc.)
 3. Build the project using Maven: `mvn clean package`
 4. Run the project: `java -jar target/keno-game-1.0-SNAPSHOT-jar-with-dependencies.jar`
